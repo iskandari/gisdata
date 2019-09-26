@@ -1,5 +1,4 @@
 from datetime import timedelta
-from fuzzywuzzy import fuzz
 
 import matplotlib.pyplot as plt
 import pandas as pd
