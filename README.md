@@ -33,7 +33,7 @@ For python2.7 usage, assuming that python is the 2.7 executable:
 ### Start Jupyter notebook
 
 ```bash
-> ipython notebook
+> jupyter notebook
 
 ```
 
