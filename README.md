@@ -52,14 +52,14 @@ ogr2ogr -f PostgreSQL PG:"host='localhost' port='5432' dbname='mydb'" data.geojs
 ### Start Jupyter notebook
 
 ```bash
-> jupyter notebook
+jupyter notebook
 
 ```
 
 ### Start local web server
 
 ```bash
-> python -m SimpleHTTPServer 8000
+python -m SimpleHTTPServer 8000
 
 ```
 Files will be served at localhost:8000
