@@ -33,7 +33,7 @@ For python2.7 usage, assuming that python is the 2.7 executable:
 
 ### CSV
 
-merge all .csv file in your working directory
+merge all .csv files in your working directory
 ```
 cat *.csv >merged.csv
 ```
