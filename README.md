@@ -32,8 +32,9 @@ For python2.7 usage, assuming that python is the 2.7 executable:
 
 ### GDAL
 
+```
 ogr2ogr -f PostgreSQL PG:"host='localhost' port='5432' dbname='mydb'" data.geojson -nln tablename
-
+```
 
 ### Start Jupyter notebook
 
