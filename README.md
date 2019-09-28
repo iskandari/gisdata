@@ -2,6 +2,11 @@
 Geospatial data and cluster analysis tutorial
 
 
+## open source online editor 
+
+http://geojson.io
+
+
 ### Toronto neighborhoods
 
 https://github.com/jasonicarter/toronto-geojson
