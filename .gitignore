@@ -1,1 +1,4 @@
 toronto/
+.ipynb*
+.DS_Store
+myenv
