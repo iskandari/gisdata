@@ -2,6 +2,9 @@
 Geospatial data and cluster analysis tutorial
 
 
+## geojson 
+create geojsons on map
+
 ## database
 gisdata.cpu2z0a5bugq.us-east-2.rds.amazonaws.com
 
@@ -87,3 +90,7 @@ python3 -m http.server
 
 
 Files will be served at localhost:8000
+
+
+
+
