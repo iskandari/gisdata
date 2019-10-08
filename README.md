@@ -10,6 +10,10 @@ create geojsons on map
 ## database
 gisdata.cpu2z0a5bugq.us-east-2.rds.amazonaws.com
 
+## Citibike data
+https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip
+
+
 
 ## open source online editor 
 
