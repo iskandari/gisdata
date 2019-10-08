@@ -77,4 +77,13 @@ jupyter notebook
 python -m SimpleHTTPServer 8000
 
 ```
+
+### on Python3
+
+```
+python3 -m http.server
+```
+
+
+
 Files will be served at localhost:8000
