@@ -2,6 +2,10 @@
 Geospatial data and cluster analysis tutorial
 
 
+## database
+gisdata.cpu2z0a5bugq.us-east-2.rds.amazonaws.com
+
+
 ## open source online editor 
 
 http://geojson.io
